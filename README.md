@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad-Reza-taheri
+- 👋 Hi, I’m @Mohammad-Reza-Taheri
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...

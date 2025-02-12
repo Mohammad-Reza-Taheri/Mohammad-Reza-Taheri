@@ -64,7 +64,6 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.--->
 
-read mr von bufalo______________________________________________________________________
 
 <div align="center">
   

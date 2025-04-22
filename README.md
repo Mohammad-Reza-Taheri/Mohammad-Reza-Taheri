@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Mohammad-Reza-Taheri
+<!---- 👋 Hi, I’m Mohammad-Reza-Taheri
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning prisma
-- 💞️ I’m looking to collaborate on exciting projects where I can contribute my skills, learn from others, and work towards meaningful outcomes.
-- 📫 You can reach me
-📞 **Phone:** 09037524778  
-📧 **Email:** [Your Email Here]  
-💼 **LinkedIn:** [Your LinkedIn Profile Here]  
-🌐 **Portfolio:** [Your Website Here]
+- 💞️ I’m looking to collaborate on exciting projects where I can contribute my skills, learn from others, and work towards meaningful outcomes.--->
+
 <!---# ali
 it is a color `#0969DA` yes
 

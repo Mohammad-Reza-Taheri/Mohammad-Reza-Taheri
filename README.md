@@ -120,7 +120,7 @@ A comprehensive healthcare platform connecting professionals and patients, featu
 ## 🎓 Education
 
 ### Bachelor's Degree in Computer Engineering
-**Shandiz University** *(Sep 2022 - Jul 2026)*
+**Shandiz University** *(Sep 2021 - Jul 2025)*
 
 ---
 
